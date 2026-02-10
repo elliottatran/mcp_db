@@ -296,3 +296,6 @@ mlartifacts/
 
 # Generated client
 client/src/client/
+
+#Claude Local Settings
+.claude/settings.local.json
